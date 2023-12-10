@@ -1,5 +1,5 @@
 # cppplayer
-A simple player written in C++
+A simple audio player written in C++
 
 ## Requirements
 Ncurses
